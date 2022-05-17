@@ -1,6 +1,13 @@
 # Portfolio-Tracking-API
 
-This application is built using Springboot and H2 database.
+This application is built using SpringBoot and H2 database. This is a portfolio tracking application that allows adding/deleting/updating trades
+and can do basic return calculations etc. Its basic functionalities includes - 
+- Adding trades for a security
+- Updating a trade
+- Removing a trade
+- Fetching trades
+- Fetching portfolio
+- Fetching returns
 
 Following are the end-points for APIs
 
